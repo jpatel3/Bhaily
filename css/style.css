@@ -1,0 +1,19 @@
+/* Optional Custom CSS */
+/* Tailwind handles most styling via classes in the HTML */
+
+/* Import Google Font (also linked in HTML for redundancy) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+  /* Add any base styles here if needed, though Tailwind's preflight usually covers this */
+}
+
+/* Example: Custom style for featured directory items */
+.featured-item {
+  border-left: 4px solid #2563eb; /* Blue border */
+  background-color: #eff6ff; /* Lighter blue background */
+}
+
+/* Add any other custom styles or overrides below */
+

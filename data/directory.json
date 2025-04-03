@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Bhaily General Store",
+      "service": "Groceries & Daily Needs",
+      "description": "Your one-stop shop for everyday essentials, snacks, and drinks.",
+      "contact": "123-456-7890",
+      "address": "Main Road, Bhaily",
+      "featured": true
+    },
+    {
+      "name": "Sharma Tailors",
+      "service": "Clothing Alterations & Stitching",
+      "description": "Custom tailoring for men and women, plus repairs.",
+      "contact": "987-654-3210",
+      "address": "Near Village Square",
+      "featured": false
+    },
+    {
+      "name": "Village Electrician Services",
+      "service": "Electrical Repairs & Installation",
+      "description": "Reliable electrical services for homes and businesses. Call for appointment.",
+      "contact": "Contact via Village Office or 555-000-1111",
+      "address": "Mobile Service",
+      "featured": false
+    },
+     {
+      "name": "Local Handicrafts Cooperative",
+      "service": "Handmade Crafts & Souvenirs",
+      "description": "Support local artisans, buy unique handmade items like pottery and textiles.",
+      "contact": "Visit stall at market days (Fridays)",
+      "address": "Community Hall (Market Days)",
+      "featured": true
+    },
+    {
+      "name": "Patel Farm Fresh Produce",
+      "service": "Seasonal Vegetables & Fruits",
+      "description": "Locally grown, fresh produce available daily.",
+      "contact": "",
+      "address": "Stall near Bus Stop",
+      "featured": false
+    },
+    {
+      "name": "Bhaily Medical Clinic (Placeholder)",
+      "service": "Basic Healthcare & Pharmacy",
+      "description": "Consultation available evenings. Basic medicines stocked.",
+      "contact": "[Add Phone Number]",
+      "address": "[Add Address]",
+      "featured": false
+    }
+  ]
+  

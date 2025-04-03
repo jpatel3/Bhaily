@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Annual Village Fair (Mela)",
+      "date": "2025-10-15",
+      "time": "Starts 11:00 AM",
+      "location": "Village Grounds",
+      "description": "Join us for the annual celebration with food, games, cultural performances, and stalls selling local goods."
+    },
+    {
+      "name": "Free Health Check-up Camp",
+      "date": "2025-06-10",
+      "time": "9:00 AM - 1:00 PM",
+      "location": "Community Hall",
+      "description": "General health check-up including blood pressure and sugar monitoring. Organized by Vadodara Health Trust."
+    },
+    {
+      "name": "Community Meeting - Water Supply",
+      "date": "2025-05-20",
+      "time": "6:00 PM",
+      "location": "Panchayat Office",
+      "description": "Discussion on upcoming improvements to the village water supply system. All residents are encouraged to attend."
+    },
+     {
+      "name": "Holi Celebrations",
+      "date": "2026-03-14",
+      "time": "Morning 9 AM onwards",
+      "location": "Village Square",
+      "description": "Community gathering to celebrate the festival of colors. Please use organic colors."
+    },
+    {
+      "name": "Weekly Market Day",
+      "date": "Every Friday",
+      "time": "8:00 AM - 1:00 PM",
+      "location": "Near Community Hall",
+      "description": "Local vendors sell fresh produce, snacks, household items, and handicrafts."
+    }
+  ]
+  
